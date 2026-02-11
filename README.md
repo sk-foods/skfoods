@@ -64,7 +64,7 @@
 </footer>
 
 <script>
-  let whatsappNumber = '8801757488142'; // এখান থেকে ভবিষ্যতে নম্বর পরিবর্তন করা যাবে
+  let whatsappNumber = '8801757638599'; // এখান থেকে ভবিষ্যতে নম্বর পরিবর্তন করা যাবে
 
   function order(product, price) {
     document.getElementById('product').value = product;
